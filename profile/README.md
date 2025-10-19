@@ -1,4 +1,4 @@
-<img src="Branding/Banner/Atlas_Main%20Banner%20Rounded.png" alt="Banner" width="600">
+<img src="https://raw.githubusercontent.com/Atlas-Internal/.github/refs/heads/main/Branding/Banner/Atlas_Main%20Banner%20Rounded.png" alt="Banner" width="600">
 <h1 style="border:none; margin:0; padding:0;">🌊 | Atlas</h1>
 <br>
 <p>👋 | Welcome to Atlas official GitHub organization.<br>Here you find our public assets for you to download! ✨</p>
